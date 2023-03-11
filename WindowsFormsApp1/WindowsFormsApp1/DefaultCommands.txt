@@ -1,0 +1,11 @@
+﻿Salut
+Comment vas tu
+Dis l'heure
+What day is it
+Wake up
+Shut up
+Stop Listening
+Show Commands
+Hide Commands
+Ouvre Youtube
+Ouvre Unity Hub
